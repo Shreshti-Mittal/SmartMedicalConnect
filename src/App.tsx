@@ -37,7 +37,7 @@ const App = () => (
                 <HospitalDashboard />
               </ProtectedRoute>
             } />
-            {/* CUSTOM ROUTES }
+            {/* CUSTOM ROUTES */}
             <Route path="*" element={<NotFound />} />
           </Routes>
         </BrowserRouter>
