@@ -37,7 +37,7 @@ const App = () => (
                 <HospitalDashboard />
               </ProtectedRoute>
             } />
-            {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
+            {/* CUSTOM ROUTES }
             <Route path="*" element={<NotFound />} />
           </Routes>
         </BrowserRouter>
