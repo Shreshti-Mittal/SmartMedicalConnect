@@ -219,8 +219,8 @@ vercel --prod
 ### 🔧 **Environment Variables**
 ```env
 # Required Supabase Configuration
-NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=your-anon-key-here
+NEXT_PUBLIC_SUPABASE_URL=https://squzevnsyszajkkfzgub.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNxdXpldm5zeXN6YWpra2Z6Z3ViIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDgxOTkwMjgsImV4cCI6MjA2Mzc3NTAyOH0.cYG9ymQuOj_hxiiPKEKfUQ4P5U_dSC5NpVxYk5Ge8Fc
 
 
 ### 🧪 **Testing the Application**
