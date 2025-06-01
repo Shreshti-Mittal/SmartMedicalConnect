@@ -293,7 +293,6 @@ npm test
 
 **Developer**: Shreshti Mittal
 **Email**: shreshti19@gmail.com
-**Project Link**: [https://github.com/your-username/smartmedconnect](https://github.com/your-username/smartmedconnect)
 
 ---
 
